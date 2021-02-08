@@ -1,0 +1,23 @@
+[
+    {
+        "id": "4370c7c9-82e8-4e6c-9acd-3966bded4f30",
+        "name": "Camaro",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "a5868bf7-ecd8-427d-ba5f-f697a1f50ec9",
+        "name": "A8",
+        "releaseYear": 2021,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "232198f0-9577-4db3-b0b5-fa6bb6d43a76",
+        "name": "Expedition",
+        "releaseYear": 2021,
+        "available": true,
+        "gasAvailable": true
+    }
+]
